@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository implements a **64-bit RISC-V assembler** that converts RISC-V assembly code (`.asm`) into corresponding machine code (`.mc`), similar in spirit to the **Venus assembler**. The project is developed as part of the **CS207 – Foundations of Computer Systems (FCS) Lab** course mini-project.
+This repository implements a **64-bit RISC-V assembler** that converts RISC-V assembly code (`.asm`) into corresponding machine code (`.mc`), similar in spirit to the **Venus assembler**. The project is developed as part of the **CS207 – Foundations of Computer Systems (FCS) Lab** course project.
 
 The assembler parses RISC-V assembly instructions, resolves labels and directives, and emits machine code along with human-readable metadata for debugging and verification.
 
