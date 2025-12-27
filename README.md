@@ -244,8 +244,3 @@ This project was completed as part of **CS207 – FCS Lab** at **IIT Ropar**, wi
 
 * **Arjun Aggarwal** 
 
----
-
-## License
-
-This project is intended for **academic use only**. Please consult the course policy before reuse or redistribution.
