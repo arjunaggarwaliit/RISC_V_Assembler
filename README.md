@@ -242,5 +242,6 @@ This project was completed as part of **CS207 – FCS Lab** at **IIT Ropar**, wi
 
 ## Authors
 
-* **Arjun Aggarwal** 
+Arjun Aggarwal (2024AIB1289)
+Aarush Gupta (2024AIB1174)
 
